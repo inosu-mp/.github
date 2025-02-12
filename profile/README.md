@@ -9,7 +9,7 @@ Tato organizace slouží k verzování, správě a koordinaci vývoje našeho pr
 
 ## 🔧 Technologie, které používáme
 - **Backend:** Python (Flask)
-- **Frontend:** TypeScript, Nuxt.js (Vue.js), SCSS, Pinia
+- **Frontend:** TypeScript, Nuxt.js (Vue.js), SCSS, Pinia, PNPM
 - **Databáze:** MySQL
 - **Design:** Figma
 - **Další:** Git, MySQL Workbench, Bruno/HTTPie
