@@ -1,4 +1,4 @@
-# 🏫 Lopatky
+# 🏫 INOSU
 Tento prostor je určen výhradně pro členy týmu, kteří společně pracují na školním týmovém projektu.
 
 ## 📌 Cíl organizace
